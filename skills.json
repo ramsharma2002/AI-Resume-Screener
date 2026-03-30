@@ -1,0 +1,24 @@
+{
+  "software": {
+    "python": [["python"], 3],
+    "java": [["java"], 3],
+    "sql": [["sql"], 2],
+    "spring boot": [["spring boot", "springboot", "spring-boot"], 2],
+    "data structures": [["dsa", "data structures"], 2]
+  },
+  "backend": {
+    "python": [["python"], 3],
+    "sql": [["sql"], 3],
+    "spring boot": [["spring boot", "springboot"], 3],
+    "flask": [["flask"], 2],
+    "rest api": [["rest", "api"], 2]
+  },
+  "data": {
+    "python": [["python"], 3],
+    "machine learning": [["machine learning", "ml"], 3],
+    "data analysis": [["data analysis", "eda"], 2],
+    "pandas": [["pandas"], 1],
+    "numpy": [["numpy"], 1],
+    "sql": [["sql"], 2]
+  }
+}
